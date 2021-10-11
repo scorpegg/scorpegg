@@ -9,35 +9,35 @@ setlocale(LC_ALL,"Rus");
 
 // Заданы координаты точки x,y. Определить, принадлежит ли эта точка треугольнику с вершинами в точках (х1,у1), (х2,у2),(х3,у3). 
 
-int x1;
+float x1;
 cout << "Введите число для х1" << endl;
 cin >> x1;
 
-int x2;
+float x2;
 cout << "Введите число для х2" << endl;
 cin >> x2;
 
-int x3;
+float x3;
 cout << "Введите число для х3" << endl;
 cin >> x3;
 
-int y1;
+float y1;
 cout << "Введите число для y1" << endl;
 cin >> y1;
 
-int y2;
+float y2;
 cout << "Введите число для y2" << endl;
 cin >> y2; 
 
-int y3;
+float y3;
 cout << "Введите число для y3" << endl;
 cin >> y3;
 
-int x0;
+float x0;
 cout << "Введите число для х0" << endl;
 cin >> x0;
 
-int y0;
+float y0;
 cout << "Введите число для y0" << endl;
 cin >> y0;
 
